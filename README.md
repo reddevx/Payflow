@@ -11,9 +11,9 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 
 ## Stack utilizada
 
-**Front-end:** React, Redux, TailwindCSS
+**Front-end:** Tailwind CSS
 
-**Back-end:** Node, Express
+**Back-end:** PHP e JavaScript
 
 
 ## Instalação
