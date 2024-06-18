@@ -15,34 +15,18 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 
 **Back-end:** PHP e JavaScript
 
-
-## Instalação
-
-Instale my-project com npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    
 ## Rodando localmente
 
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/reddevx/payflow-php.git
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd my-project
-```
-
-Instale as dependências
-
-```bash
-  npm install
+  cd payflow
 ```
 
 Inicie o servidor
