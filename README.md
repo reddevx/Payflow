@@ -29,22 +29,9 @@ Entre no diretório do projeto
   cd payflow
 ```
 
-Inicie o servidor
-
-```bash
-  npm run start
-```
-
-
 ## Autores
 
-- [@octokatherine](https://www.github.com/octokatherine)
-
-
-## Aprendizados
-
-O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
-
+- [@Reddevx](https://www.github.com/reddevx)
 
 ## Roadmap
 
@@ -55,22 +42,17 @@ O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e 
 
 ## Funcionalidades
 
-- Temas dark e light
-- Preview em tempo real
-- Modo tela cheia
 - Multiplataforma
 
 
 ## Melhorias
 
-Que melhorias você fez no seu código? Ex: refatorações, melhorias de performance, acessibilidade, etc
+ refatorações
+ melhorias de performance
+ acessibilidade
 
 
-## Referência
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 ## Documentação de cores
 
@@ -82,17 +64,12 @@ Que melhorias você fez no seu código? Ex: refatorações, melhorias de perform
 | Cor exemplo       | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
-## Documentação
-
-[Documentação](https://link-da-documentação)
-
-
 ## Feedback
 
-Se você tiver algum feedback, por favor nos deixe saber por meio de fake@fake.com
+Se você tiver algum feedback, por favor nos deixe saber por meio de juan.devx@gmail.com
 
 
 ## Suporte
 
-Para suporte, mande um email para fake@fake.com ou entre em nosso canal do Slack.
+Para suporte, mande um email para juan.devx@gmail.com ou entre em nosso canal do Slack.
 
