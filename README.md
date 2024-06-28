@@ -1,6 +1,6 @@
 ![Logo](https://raw.githubusercontent.com/reddevx/payflow-php/master/static/images/2.png)
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
+Com uma interface intuitiva e recursos avançados, PayFlow visa simplificar a administração financeira, permitindo que os usuários mantenham o controle total de suas finanças pessoais e corporativas
 
 
 ## Screenshots
