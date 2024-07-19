@@ -1,6 +1,6 @@
 ![Logo](https://raw.githubusercontent.com/reddevx/payflow-php/master/static/images/2.png)
 
-Com uma interface intuitiva e recursos avançados, PayFlow visa simplificar a administração financeira, permitindo que os usuários mantenham o controle total de suas finanças pessoais e corporativas
+<i>Com uma interface intuitiva e recursos avançados, PayFlow visa simplificar a administração financeira, permitindo que os usuários mantenham o controle total de suas finanças pessoais e corporativas</i>
 
 <br>
 <br>
